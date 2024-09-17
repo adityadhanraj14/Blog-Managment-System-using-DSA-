@@ -13,6 +13,27 @@ Special features: It not losts there data when you terminate the program it's st
 - **Blog Management:** Users can add, delete, and view their blogs. They can also view blogs of all users.
 - **File Handling:** Uses file handling to store and retrieve user and blog data, ensuring persistence across sessions.
 
+## Demo
+
+### Signup
+![Signup](assets/signup)
+
+### Authentication
+![Authentication](assets/Authentication)
+
+### Login
+![Login](assets/Login)
+
+### Adding Blog
+![Adding Blog](assets/Addingblog)
+
+### Displaying Blog
+![Displaying Blog](assets/DisplayBLog)
+
+### Deleting Blog
+![Deleting Blog](assets/DeletingBlog)
+
+
 ## How It Works
 
 ### Data Structure
