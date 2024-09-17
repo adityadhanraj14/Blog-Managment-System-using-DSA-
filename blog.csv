@@ -1,0 +1,61 @@
+Name,Serial No,Blog Title,Blog
+aditya,0,Nation,Our nation is very good
+aditya,0,3 Tips for Clean Code,Improve readability with naming format.
+aditya,0,Python One-Liners,Use list comprehensions and lambda for concise code.
+aditya,0,Why Git?,Learn how Git tracks changes and aids collaboration.
+aditya,0,Coding with Snippets,Speed up coding using reusable snippets.
+aditya,0,Big O Basics,Quickly grasp algorithm efficiency with Big O.
+
+Riya,2,Best Coding Practices,Adopt best practices for writing clean code.
+Riya,2,Python Tips and Tricks,Learn useful tips and tricks for Python programming.
+Riya,2,Using Git Effectively,Make the most of Git for your projects.
+Riya,2,Snippet Management,Organize and manage your code snippets.
+Riya,2,Understanding Big O,Get a grasp on the concept of Big O notation.
+
+Sam,3,Code Quality Tips,Improve the quality of your code with these tips.
+Sam,3,Python Efficiency,Enhance your Python code efficiency with these methods.
+Sam,3,Git Basics,Get started with the basics of Git.
+Sam,3,Snippet Usage,Utilize code snippets to streamline your coding process.
+Sam,3,Big O Notation,Learn about Big O notation and its importance.
+
+Alex,4,Code Hygiene,Keep your codebase clean and maintainable.
+Alex,4,Effective Python Code,Write Python code that is both effective and elegant.
+Alex,4,Introduction to Git,Understand the fundamentals of Git.
+Alex,4,Code Snippet Best Practices,Best practices for using and managing code snippets.
+Alex,4,Big O Efficiency,Understand how Big O affects code efficiency.
+
+Jordan,5,Clean Coding Practices,Adopt practices to keep your code clean.
+Jordan,5,Python Code Tricks,Tricks to write more efficient Python code.
+Jordan,5,Git Essentials,Essential concepts for using Git.
+Jordan,5,Managing Code Snippets,How to manage your code snippets efficiently.
+Jordan,5,Big O Analysis,Analyze code performance with Big O notation.
+
+Taylor,6,Effective Coding Tips,Improve your coding effectiveness with these tips.
+Taylor,6,Python Shortcuts,Use shortcuts to write Python code more efficiently.
+Taylor,6,Git for Collaboration,How to use Git for better collaboration.
+Taylor,6,Code Snippet Efficiency,Increase your efficiency with well-managed snippets.
+Taylor,6,Big O Overview,An overview of Big O notation and its significance.
+
+Casey,7,Code Quality Essentials,Essentials for maintaining high code quality.
+Casey,7,Python Optimization,Optimize your Python code for better performance.
+Casey,7,Git Workflow,Best practices for an effective Git workflow.
+Casey,7,Snippet Utilization,Maximize productivity with efficient snippet utilization.
+Casey,7,Understanding Code Complexity,Grasp the concept of code complexity with Big O.
+
+Morgan,8,Writing Clean Code,Techniques for writing clean and maintainable code.
+Morgan,8,Python Efficiency Tips,Tips for writing more efficient Python code.
+Morgan,8,Git Basics and Beyond,From basics to advanced Git features.
+Morgan,8,Code Snippet Tips,Best practices for using code snippets effectively.
+Morgan,8,Big O Fundamentals,Fundamental concepts of Big O notation.
+
+Jamie,9,Improving Code Quality,How to improve the quality of your code.
+Jamie,9,Python Code Enhancements,Enhance your Python code with these tips.
+Jamie,9,Mastering Git,Master Git for version control and collaboration.
+Jamie,9,Snippet Optimization,Optimize your code snippets for better efficiency.
+Jamie,9,Big O and Algorithm Design,How Big O impacts algorithm design.
+
+Riley,10,Code Maintenance Tips,Keep your codebase maintainable with these tips.
+Riley,10,Python Code Efficiency,Make your Python code more efficient.
+Riley,10,Git for Teams,Using Git effectively in team environments.
+Riley,10,Code Snippet Management,Manage your code snippets for better productivity.
+Riley,10,Big O for Developers,How developers can use Big O notation to optimize code.
