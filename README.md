@@ -72,3 +72,25 @@ Special features: It not losts there data when you terminate the program it's st
 - **File Storage:**
   - `userdata.csv`: Stores usernames and passwords.
   - `blog.csv`: Stores blog posts with associated user data.
+
+## Special Features
+
+- **Data Persistence:** All user and blog data is stored in CSV files (`userdata.csv` and `blog.csv`). The program retrieves this data when it starts, ensuring that no data is lost between sessions.
+- **Efficient Blog Management:** Using an array of linked lists makes it easy to manage blogs for each user individually.
+
+ ## Getting Started
+
+ ### Prerequisites
+- C compiler (e.g., GCC)
+- Basic understanding of linked lists and file handling in C
+
+### Running the Program
+
+1. Open a terminal and navigate to the directory containing `main.c`.
+
+2. Compile the program:
+   ```bash
+   gcc main.c
+   ./a.out
+ 
+
